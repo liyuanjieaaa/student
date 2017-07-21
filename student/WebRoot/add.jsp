@@ -29,7 +29,7 @@
       姓名： <input type="text" name="name"/><br/>
        年龄： <input type="text" name="age"/><br/>
        年级：  <input type="text" name="nianji"/><br/>
-         <input type="submit"/>
+         <input type="submit"/><br/>
        </form>
      </body>
    
